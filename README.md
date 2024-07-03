@@ -27,4 +27,4 @@
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?YASHBHISE=YASHBHISE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/YASHBHISE/github-readme-stats)
